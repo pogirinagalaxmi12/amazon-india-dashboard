@@ -11,14 +11,16 @@ Monitor key performance indicators (KPIs).
 Generate actionable business insights.
 
 #🛠️ Tools & Technologies
-Add the tools you actually used in this project, such as:
+Add the tools you actually used in this project,
+such as:
 Microsoft Excel
 Power BI
 SQL
 Data Cleaning and Data Visualization
 
 #📈 Key Insights
-Add the actual insights identified in your dashboard, such as:
+Add the actual insights identified in your dashboard, 
+such as:
 Best-performing product categories.
 Sales distribution across different categories.
 This project demonstrates the application of data analytics and visualization techniques to understand sales performance, identify business trends, and support informed business decisions.
